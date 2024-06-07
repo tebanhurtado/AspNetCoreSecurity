@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+*.css
+*.js
+/wwwroot/lib/bootstrap
+/wwwroot/lib/jquery
+/wwwroot/lib/jquery-validation
+/wwwroot/lib/jquery-validation-unobtrusive
+*.ico
+/obj
+/bin/Debug/net8.0
